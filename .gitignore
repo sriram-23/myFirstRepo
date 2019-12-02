@@ -1,0 +1,6 @@
+# To ignore all python files. That is files with .py extension
+*.py
+# To ignore the 'Ignore' directory
+/Ignore
+# To ignore a file
+hello.txt
